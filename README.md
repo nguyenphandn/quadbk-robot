@@ -7,7 +7,7 @@ The robot can be seen working in [this video](https://youtu.be/aWlsWf3MUjA).
 The leg assembly is built by following [this drawing](drawings/2_BL-Leg-Module.pdf). To customize your design, refer to [this leg linkage construction](https://geogebra.org/classic/zdsb82sw).
 <img src="pics/quadbk-leg-assem.gif">
 
-The whole body assembly is built by following [this drawing](drawings/2_QuadBK.pdf).
+The whole body assembly is built by following [this drawing](drawings/3_QuadBK.pdf).
 <img src="pics/quadbk-all-assem.gif">
 
 ## Electrical components
